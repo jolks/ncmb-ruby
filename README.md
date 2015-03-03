@@ -9,6 +9,12 @@ Changes Made
 
 Installation
 ------------
+```sh
+$ gem install ncmb-ruby
+```
+
+Or with Bundler in your Gemfile.
+
 ``` ruby
 gem 'ncmb-ruby'
 ```
